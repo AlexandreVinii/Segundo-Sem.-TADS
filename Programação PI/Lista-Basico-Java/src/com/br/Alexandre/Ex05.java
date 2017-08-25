@@ -55,6 +55,7 @@ public class Ex05 {
                     desistir = true;
                 }
                 else{
+                    System.out.println("Você não digitou um número porfavor tente outra vez...");
                     desistir = false;
                 }
             }
